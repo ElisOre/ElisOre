@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am Elías Orellana.
 
 ### Currently studying Full-stack Web Development
